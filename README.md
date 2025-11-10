@@ -1,0 +1,1 @@
+- [DEMO](https://olegshanin.github.io/Slider/)
